@@ -1,0 +1,11 @@
+@import 'tailwindcss/base'; 
+@import 'tailwindcss/components';
+
+/* Additional styles */
+@import 'additional-styles/utility-patterns.css';
+@import 'additional-styles/flatpickr.css';
+
+@import 'tailwindcss/utilities';
+@import url('https://cdn.tailwindcss.com');
+@import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css');
+@import url('https://cdn.jsdelivr.net/npm/mqtt/dist/mqtt.min.js');
